@@ -24,5 +24,5 @@ YBKPISNとレッツダンシング！！
 
 # スライドも作ったよ！
 ---
-[DX library DE Let's Dancing!!](www.slideshare.net/slideshow/embed_code/40728715 "DX library DE Let's Dancing!!")  
+[DX library DE Let's Dancing!!](http://www.slideshare.net/metasequo/ybk?ref=http://localhost:51004/view/28 "DX library DE Let's Dancing!!")  
 <iframe src="//www.slideshare.net/slideshow/embed_code/40728715" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
